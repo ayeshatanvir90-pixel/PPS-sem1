@@ -14,4 +14,3 @@ int main()
     printf("%.1f %.1f\n",c+d,c-d);
     return 0;
 }
-//problem
